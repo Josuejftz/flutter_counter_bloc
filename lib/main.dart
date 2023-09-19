@@ -38,10 +38,10 @@ class MyHomePage extends StatelessWidget{
       ),
       body: BlocBuilder<CounterBloc, CounterStates>(
         builder: (context, state) {
-          if (state is InitialState){
+          if (state is InitialState){//si esta en un estado inicial enviar 0  de parametro
             return _counter(context,0);
           }
-          if (state is UpdateState){
+          if (state is UpdateState){//si 
             return _counter(context,state.counter);
           }
           return Container();
