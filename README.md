@@ -1,7 +1,10 @@
 # Aplicacion simple para entender bloc
     
 Estados : Estados de algo en este caso 1.- estado inicial (counter = 0) o 2.- estado actualizando (por efecto de un evento)
+
 Eventos : Eventos que puedo ocacionar en este caso botones de '+' y '-'
+
+
 Bloc : lógica de la aplicación aqui usamos estados y eventos
 
 
