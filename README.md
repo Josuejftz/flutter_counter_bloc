@@ -5,9 +5,9 @@ Eventos : Eventos que puedo ocacionar en este caso botones de '+' y '-'
 Bloc : lógica de la aplicación aqui usamos estados y eventos
 
 
-- [Se uso este turtorial](https://medium.com/@manojbhadane/building-basic-flutter-app-with-bloc-pattern-acc5cd9f3472)
+- [Se uso este tutorial](https://medium.com/@manojbhadane/building-basic-flutter-app-with-bloc-pattern-acc5cd9f3472)
 
-tambien puedes ver [Este tutorial de contador](https://bloclibrary.dev/#/fluttercountertutorial)
+también puedes ver [Este tutorial de contador](https://bloclibrary.dev/#/fluttercountertutorial)
 
 # flutter_counter_bloc
 
